@@ -1,6 +1,6 @@
 # RyuNinja
 
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+![Vista Juego](https://github.com/acominf/RyuNinja/blob/master/Juego.JPG)
 
 ### Objetivo del juego/aplicación
 El objetivo del juego es aplicar los conocimientos adquiridos sobre la programacion orientada a objetos. Es una manera facil de comprender que pasa con las clases y como actuan entre sí. 
@@ -61,7 +61,7 @@ La descripción del juego es, que se trata de pasar tres niveles. En estos nivel
 * Muestra el mensaje que el jugador perdio cuando se le acabarón las vidas.
 
 ### Diagrama de clases
-![Diagrama de clases](url-del-diagrama.png)
+![Diagrama de clases](https://github.com/acominf/RyuNinja/blob/master/Diagrama%201.JPG)
 
 ### Autor(es)
 El autor(es) del proyecto son:
