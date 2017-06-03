@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=mainstart()
+comment0.text=\r\n\ Constructor\ que\ agrega\ el\ boton\ Start\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ que\ verifica\ si\ das\ click\ en\ Start\ o\ en\ Help\r\n
+numComments=2

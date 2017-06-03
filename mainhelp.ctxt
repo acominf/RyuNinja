@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=mainhelp()
+comment0.text=\r\n\ Constructor\ que\ detiene\ el\ sonido\ miestra\ se\ ve\ la\ ayuda\ y\ crea\ el\ boton\ ayuda\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ que\ comprueba\ que\ boton\ escoges,\ ayuda\ o\ Start\r\n
+numComments=2

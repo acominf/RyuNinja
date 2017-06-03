@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ mueveObj()
+comment1.text=\r\n\ Metodo\ que\ mueve\ los\ objetos\ hacia\ abajo\ \r\n
+comment2.params=
+comment2.target=void\ checaFrutas()
+comment2.text=\r\n\ Metodo\ revisa\ si\ las\ frutas\ tocan\ el\ suelo,\ y\ le\ quitan\ vidas\ al\ jugador\r\n
+comment3.params=
+comment3.target=void\ checaCas()
+comment3.text=\r\n\ Metodo\ que\ comprueba\ si\ un\ objeto\ de\ tipo\ Cascara,\ toca\ el\ piso,\ ya\ que\ estos\ no\ quitan\r\n\ vidas\ al\ jugador,\ solo\ puntos\ si\ los\ toca\r\n
+numComments=4

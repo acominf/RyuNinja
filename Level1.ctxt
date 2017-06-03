@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Level1()
+comment0.text=\r\n\ Constructor\ que\ dibuja\ el\ escenario\ del\ nivel\ 1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ que\ se\ encarga\ de\ ejecutar\ los\ metodos\ de\ la\ clase\r\n
+comment2.params=nilai
+comment2.target=void\ nextlevel(int)
+comment2.text=\r\n\ Comprueba\ el\ escore\ para\ avanzar\ de\ nivel\ \r\n
+comment3.params=
+comment3.target=void\ generaItem()
+comment3.text=\r\n\ Metodo\ que\ genera\ los\ objetos\ que\ caen\r\n
+comment4.params=
+comment4.target=void\ restaVid()
+comment4.text=\r\n\ Metodo\ que\ resta\ vidas\r\n
+comment5.params=
+comment5.target=void\ generaEnemigoD()
+comment5.text=\r\n\ Metodo\ que\ genera\ enemigos\ del\ lado\ derecho\r\n
+numComments=6

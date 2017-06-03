@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=gameover1()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Comprueba\ que\ tecla\ presiona\ para\ pasar\ al\ siguiente\ nivel\ o\ regresar\ al\ menu\ principal\r\n
+numComments=2

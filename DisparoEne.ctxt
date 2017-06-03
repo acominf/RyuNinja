@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=dir\ vel
+comment0.target=DisparoEne(int,\ int)
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ DisparoEne\ que\ usa\ las\ variables\ "dir"\ y\ "vel"\r\n\ para\ comprobar\ la\ direccion\ y\ velocidad\ del\ disparo\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ que\ usa\ los\ metodos\ de\ DisparoEne\r\n
+comment2.params=
+comment2.target=void\ llegaLimite()
+comment2.text=\r\n\ Metodo\ que\ remueve\ los\ disparos\ de\ los\ enemigos\ al\ llegar\ al\ borde\ del\ escenario\r\n
+comment3.params=
+comment3.target=void\ tocaJug()
+comment3.text=\r\n\ \ Metodo\ que\ comprueba\ si\ el\ disparo\ toca\ al\ Jugador,\ y\ le\ quita\ vidas\r\n
+numComments=4

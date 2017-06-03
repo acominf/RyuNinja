@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=direcc
+comment0.target=Disparo(int)
+comment0.text=\r\n\ Constructor\ de\ Disparo,\ agrega\ la\ direccion\ de\ la\ bala\r\n
+comment1.params=direcc\ veloc
+comment1.target=Disparo(int,\ int)
+comment1.text=\r\n\ Constructor\ que\ guarda\ la\ velocidad\ de\ la\ bala\ del\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Metodo\ que\ mandar\ llamar\ los\ metodos\ de\ la\ clase\ Disparo\r\n
+comment3.params=
+comment3.target=void\ mueveBala()
+comment3.text=\r\n\ Metodo\ que\ mueve\ la\ bala\ a\ la\ derecha\ o\ izquieda\r\n
+comment4.params=
+comment4.target=void\ AtWorldEdge()
+comment4.text=\r\n\ Metodo\ que\ remueve\ los\ disparos\ del\ jugador\ y\ de\ los\ enemigos,\ cuando\ tocan\ el\ borde\r\n\ del\ escenario\r\n
+comment5.params=
+comment5.target=boolean\ atWorldEdge()
+comment5.text=\r\n\ Metodo\ que\ regresa\ true\ o\ false\ \r\n
+comment6.params=
+comment6.target=void\ tocaEneD()
+comment6.text=\r\n\ Metodo\ que\ comprueba\ si\ toca\ al\ enemigo\ de\ la\ derecha\r\n
+comment7.params=
+comment7.target=void\ tocaEneI()
+comment7.text=\r\n\ Metodo\ que\ comprueba\ si\ toca\ al\ enemigo\ de\ la\ izquierda\r\n
+numComments=8
